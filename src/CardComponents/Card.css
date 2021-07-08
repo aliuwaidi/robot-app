@@ -1,0 +1,13 @@
+.card {
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	background: lightskyblue;
+	transition: transform 1s ease-in-out;
+	text-align: center;
+}
+
+.card:hover {
+	transform: scale(0.9);
+	box-shadow: 1px 1px rgb(143, 143, 221);
+}

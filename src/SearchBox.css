@@ -1,0 +1,13 @@
+input {
+	padding: 15px;
+	outline: rgb(191, 199, 204);
+	background: lightskyblue;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: none;
+}
+
+input:hover {
+	/* box-shadow: 1px 1px rgb(190, 202, 190); */
+	border: 1px solid rgb(78, 78, 221);
+}
